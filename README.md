@@ -10,13 +10,13 @@ tareas del curso de programacion 3
 
 
 ###### Las principales operaciones que se pueden realizaren esta lista son: 
-###### :tw-2714:   Inserción al final de la lista
-###### :tw-2714:  Inserción en una poscicion específica
-###### :tw-2714: eliminación del primer Nodo 
-###### :tw-2714: eliminación del ultimo nodo 
-###### :tw-2714: eliminación en una poscisión específica 
-###### :tw-2714: busqueda de un elemento 
-###### :tw-2714: impresión de la lista
+###### -  Inserción al final de la lista
+###### -  Inserción en una poscicion específica
+###### -  eliminación del primer Nodo 
+###### -  eliminación del ultimo nodo 
+###### -  eliminación en una poscisión específica 
+###### -  busqueda de un elemento 
+###### -  impresión de la lista
 
 ### Aca un resumen de como funciona este código:
 
